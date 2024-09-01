@@ -1,6 +1,6 @@
 # Java Practice Problems
 
-##Strings
+## Strings
   1. Reverse Strings
   2. Palindrome Strings
   3. Anagram String
