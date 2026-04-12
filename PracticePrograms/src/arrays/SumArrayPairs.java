@@ -1,7 +1,7 @@
 package arrays;
 // Find Pair of Integers in an array that sums up to a target
 //Input:  arrays = [2,7,11,15,-2], target: 9
-//Output: {2,7} & {11,-2}
+//Output: {2,7} and {11,-2}
 
 
 public class SumArrayPairs {
